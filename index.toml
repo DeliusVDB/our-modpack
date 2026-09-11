@@ -305,6 +305,11 @@ hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "e0ee74eb150e202cf7eb0bf807116cbb2a4b2ea8af6d9ac331e491b60d65805d"
+metafile = true
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "6727bf5c1c358a3854d99bfc72993ba247e6280868c8ebece0455b2bb7b9d215"
 metafile = true
