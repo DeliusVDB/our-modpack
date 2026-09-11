@@ -200,6 +200,11 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ae249860801bfd771c42b996713f4aa373ca8135634ffd3666a9d341563ee16e"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
@@ -265,8 +270,28 @@ hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "686e1886078b4419ca2d6283e595320e51eb517f1ac159db16c6bbd1fc6022f1"
+metafile = true
+
+[[files]]
 file = "mods/swinging-lanterns.pw.toml"
 hash = "bb4871c2b5e25eb4c89f78f1ddf3845bcd23b08f7e94e2ab4803eeb3f7de5787"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "e6295eed43fe631dfb8539903c81c30a12445292800119ad01c46d32bc523560"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "a58deaea68d4ed6c8e551273571cf7f9305c0a9747f82b0ef4b778c4bb54e235"
 metafile = true
 
 [[files]]
