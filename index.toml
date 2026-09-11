@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "68810c16145f40d2df4b109931cc84ffd90d6f146c7843b1fda47615dd43aec7"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fc6a9104e056dcd9a64076b4dc7b05b4f369e29ca53db8bcc8284d98781fb73f"
 metafile = true
@@ -223,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
-metafile = true
-
-[[files]]
-file = "mods/no_moon.jar.pw.toml"
-hash = "ff47a6dc5871a31b3729187e967eab236138bf8b772a712e9a10ec9ed3cb945e"
 metafile = true
 
 [[files]]
