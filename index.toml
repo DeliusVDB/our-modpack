@@ -255,11 +255,6 @@ hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
-file = "mods/longer-following-time.pw.toml"
-hash = "16ac8d852657597941ced56b4288cff592533c11a4e7d6498dc1c6f336b3ac87"
-metafile = true
-
-[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 metafile = true
@@ -302,11 +297,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
-metafile = true
-
-[[files]]
-file = "mods/monolib.pw.toml"
-hash = "e0ee74eb150e202cf7eb0bf807116cbb2a4b2ea8af6d9ac331e491b60d65805d"
 metafile = true
 
 [[files]]
