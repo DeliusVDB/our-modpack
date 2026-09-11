@@ -81,6 +81,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
 metafile = true
@@ -218,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
-metafile = true
-
-[[files]]
-file = "mods/no-moon-network-fix.pw.toml"
-hash = "63554b12b09b2e97bca9df4800164da6f78cb3c8a3a9223c96ca260a44753d65"
 metafile = true
 
 [[files]]
