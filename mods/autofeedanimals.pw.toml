@@ -1,0 +1,13 @@
+name = "Auto Feed Animals"
+filename = "AutoFeedAnimals-Neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qQAETE6z/versions/tSljysQl/AutoFeedAnimals-Neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "30fdee98b946f787bd9d84ff5156260e9bccc5c2753615cc1d937c62a7b5f60f655e00d6620478ac74c485d21dc2c2c007050471b37bd5e2cad9b70021b3d8ad"
+
+[update]
+[update.modrinth]
+mod-id = "qQAETE6z"
+version = "tSljysQl"

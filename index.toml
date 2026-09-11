@@ -50,6 +50,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/autofeedanimals.pw.toml"
+hash = "9472aae03dd8cef437841e7d2837ffdd3d3e6e69e9d6ace677054db32b1417a2"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -120,6 +125,11 @@ hash = "4510ff91153d92f949c2e70e6df356f26b6f1438bc05a98b88463de88a5166a7"
 metafile = true
 
 [[files]]
+file = "mods/dolphin-fix.pw.toml"
+hash = "2e08b99301139ff8322633318358bf8965c4f61fdfdc03d3250ec9cfbf1e9ae3"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "1011b0500552fa2e37a4f470796426be09c5416852269f6cfbfcfcbd4783be4e"
 metafile = true
@@ -172,6 +182,16 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+metafile = true
+
+[[files]]
+file = "mods/golem-spawn-fix.pw.toml"
+hash = "03be957c6192a9d2755e15206a1885a64022b4c1fbbd5a8a455c094e75a0c101"
+metafile = true
+
+[[files]]
+file = "mods/horse-breeding-fix.pw.toml"
+hash = "2ba21db9025ef581393f8ed06e2d1230c4ccf8bc8e2abebcf9fcd7462bd4cc8f"
 metafile = true
 
 [[files]]
@@ -235,6 +255,11 @@ hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
+file = "mods/longer-following-time.pw.toml"
+hash = "16ac8d852657597941ced56b4288cff592533c11a4e7d6498dc1c6f336b3ac87"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 metafile = true
@@ -292,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "a378eacf15808312cf62335ac81a243adf5f29d287b3eaa500e02ab04460e44d"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers-re-employed.pw.toml"
+hash = "a9e205a10f37e99beed3961f9b6ad54f9a05fefc25196529ea0a2c9feb73f719"
 metafile = true
 
 [[files]]
@@ -382,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
+metafile = true
+
+[[files]]
+file = "mods/villagerapi.pw.toml"
+hash = "939d5ba622ccaa6c1fba8a3c5007d3876f851540b0c9b23922e26ba89fe37ebb"
 metafile = true
 
 [[files]]
