@@ -1,0 +1,13 @@
+name = "Better Crossbows"
+filename = "Better-Crossbows-Neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7jh4pFKK/versions/7qGRJBM7/Better-Crossbows-Neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "c3c7d357d2769cc420be3bf1b6f5d9b597de4affef354f59bfd43a55a35862279b0d9ca7a298060b4deb27a9291f863cd9e5cbd3ae226411feecc933030a1b42"
+
+[update]
+[update.modrinth]
+mod-id = "7jh4pFKK"
+version = "7qGRJBM7"
