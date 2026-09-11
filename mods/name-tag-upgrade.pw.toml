@@ -1,0 +1,13 @@
+name = "Name Tag Upgrade"
+filename = "NameTagUpgrade-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7LHtwd7/versions/nnGVw1po/NameTagUpgrade-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "21655939ee025abb205e1f888401320461f01012416e3ebbf20e50395549e1dfffb8999602ec02412b34f88443d52f040df732812b8c1d1cbac45ea86666bd06"
+
+[update]
+[update.modrinth]
+mod-id = "d7LHtwd7"
+version = "nnGVw1po"

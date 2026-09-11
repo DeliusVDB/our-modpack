@@ -1,0 +1,13 @@
+name = "Stonecutting Upgrade"
+filename = "StonecuttingUpgrade-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCLuNtSF/versions/4bT8M2ti/StonecuttingUpgrade-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "cc187279c0c8f13c6351e2ad8131d2acc0851de5b7728b5897ef3842438cd65be62c51e9b6d09ef2802e4433fb0bace69b8c8e33d6cf8fcf3762cf0e24c6cfac"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLuNtSF"
+version = "4bT8M2ti"

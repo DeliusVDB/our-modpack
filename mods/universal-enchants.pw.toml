@@ -1,0 +1,13 @@
+name = "Universal Enchants"
+filename = "UniversalEnchants-v21.1.7-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/wdcaa1jb/UniversalEnchants-v21.1.7-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "638f88bff5c4b6d8081d71d1714dfce956eba0704c50791c847033a7d18ec442039f0219f32b03a2c8529053704d34d82ddd206ca52b12dac4101142e065fd61"
+
+[update]
+[update.modrinth]
+mod-id = "DT56YDir"
+version = "wdcaa1jb"

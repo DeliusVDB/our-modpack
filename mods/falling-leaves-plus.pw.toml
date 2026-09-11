@@ -1,0 +1,13 @@
+name = "Falling Leaves Plus"
+filename = "FallingLeavesPlus-v21.1.2-mc1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PZyzzLjz/versions/X9afDKLf/FallingLeavesPlus-v21.1.2-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "95468c5a2bc70160c99b6463942a6ca46e05a71276669372081d009c463bd58da5382ab71795590cd6cf2063ac43ace87a3f15c737b0da3871284044310e1502"
+
+[update]
+[update.modrinth]
+mod-id = "PZyzzLjz"
+version = "X9afDKLf"

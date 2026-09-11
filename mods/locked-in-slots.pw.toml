@@ -1,0 +1,13 @@
+name = "Locked In Slots"
+filename = "LockedInSlots-v21.1.0-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y2Xn63zs/versions/o5Rv93ng/LockedInSlots-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "933c3dd584a5f2644c7a42fe467119886b2439636d875d088c18474a4eb9d4ffdac6cb924b8321188d82491835d4e1cc12fd29a1cc13250b2391493decca86f7"
+
+[update]
+[update.modrinth]
+mod-id = "y2Xn63zs"
+version = "o5Rv93ng"

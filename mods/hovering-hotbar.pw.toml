@@ -1,0 +1,13 @@
+name = "Hovering Hotbar"
+filename = "HoveringHotbar-v21.1.1-mc1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJ4PIJR2/versions/8Hi3T9t9/HoveringHotbar-v21.1.1-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "1053ec14b6dd8c82cbf8cd4c6c7d7cf4f024eae245b154b3c35256f23b663b6bc119f56907f1974cef7d05bf7d3713c86a7e6e0912d458b195e8251355f82954"
+
+[update]
+[update.modrinth]
+mod-id = "IJ4PIJR2"
+version = "8Hi3T9t9"

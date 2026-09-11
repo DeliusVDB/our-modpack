@@ -1,0 +1,13 @@
+name = "Pixelshot"
+filename = "Pixelshot-v21.1.2-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MUoQGQVU/versions/RGOFwLyB/Pixelshot-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "4aa5074a2b683001a3775642e76b084eddf16e50900953e2fc7c66e2a71f9f025f9a96ccbb4116af2824a855e3b9a4c8e19d76e4ccb9967a668b3a558a153abd"
+
+[update]
+[update.modrinth]
+mod-id = "MUoQGQVU"
+version = "RGOFwLyB"
