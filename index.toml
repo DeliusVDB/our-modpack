@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "cd8c0a84228f2fab50cfa63b770ec6bbe64217c691dff582f49cc9333185f6f1"
+hash = "523f4dfa1b9788fb801d1236482917ebd7cdb5612e07594dc8413bfde51779f6"
 metafile = true
 
 [[files]]

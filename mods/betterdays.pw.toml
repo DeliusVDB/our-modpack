@@ -1,6 +1,6 @@
 name = "Better Days"
 filename = "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
