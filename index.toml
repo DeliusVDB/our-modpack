@@ -140,11 +140,6 @@ hash = "89d5086e2383c436bcedadc91aff9d69ec6a59d2bacbbba6b5d59e2d74576a69"
 metafile = true
 
 [[files]]
-file = "mods/better-animations-collection.pw.toml"
-hash = "a97e9879873319e5f6731e48b430544461a43974029c99b9702a3c8245c88a7d"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "99e430f82700baa74f3b392d7dbc31218982cd4da2cd1e4fd6826c5b58f71b46"
 metafile = true
