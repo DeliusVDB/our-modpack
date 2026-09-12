@@ -1,6 +1,6 @@
 name = "Medieval Buildings [Nether Edition]"
 filename = "medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9zKI9xOD/versions/70C9QEm8/medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar"
