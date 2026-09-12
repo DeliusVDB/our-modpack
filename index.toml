@@ -875,6 +875,11 @@ hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
+file = "mods/oelib.pw.toml"
+hash = "08cdf5ca1d3f2e70d6735dbeb31cee1325d7e985d13d059a5048ee8d15685c28"
+metafile = true
+
+[[files]]
 file = "mods/open-together.pw.toml"
 hash = "de9eae4860b883de6958630df79f634f47ee26e825037f7321029f7306ecf019"
 metafile = true
