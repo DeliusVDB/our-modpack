@@ -75,6 +75,11 @@ hash = "d92f9bea5613bc6fadf3f1b7a7786291541cc990756f7780e108d84e12ee37a2"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
@@ -126,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
+hash = "48ccf754257a1d140c12e4cee3bd7901392023fcd5a3fc961b7275448459fe73"
 metafile = true
 
 [[files]]
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/better-world-loading.pw.toml"
 hash = "9f4574c4eefc17adc329e36584797c1a631cc2d522804d050327cc0b9b143d61"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "cd8c0a84228f2fab50cfa63b770ec6bbe64217c691dff582f49cc9333185f6f1"
 metafile = true
 
 [[files]]
@@ -345,6 +355,11 @@ hash = "2e08b99301139ff8322633318358bf8965c4f61fdfdc03d3250ec9cfbf1e9ae3"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "688e44ea2963f9810b30614fb49b73ea73ce51b40040e920cb5ec6f7b89175f5"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
@@ -452,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "4cdd93cee10cb5b758e0c9214a8e0c606dc0c9715a9fadca41bc630f3706d0e4"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "f0d4fa6de4081b749521e5aa60843b5262794a9854d7dd9ca9ae77bece29ab7d"
 metafile = true
 
 [[files]]
@@ -722,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "551d4c9d8c137f796c5f1e93a0bd14fa69caa4edb02c5075d11564c0c6451368"
 metafile = true
 
 [[files]]
@@ -1070,6 +1095,11 @@ hash = "bb1a2b476e6ebd3b6deef2047f7a4ae3a0b8dfcd967bff710dede2803bd9b5bd"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
 file = "mods/swinging-lanterns.pw.toml"
 hash = "3fe9a5b678aa469dd0916b06d98fe4126e3ca97f099c2188b71855123c602eed"
 metafile = true
@@ -1107,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "0119ee39062682d14be568b5e97de4346e74060cb2c555124fe81b62d2582b52"
 metafile = true
 
 [[files]]
