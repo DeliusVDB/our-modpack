@@ -1268,3 +1268,7 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "91391407cae60cc3518fbc859fac09e32d6af47a5d775ada54961b4856411481"
 metafile = true
+
+[[files]]
+file = "wrangler.jsonc"
+hash = "f15b24544420076a7da74958bf98ab8a2e42d88120dec916dd345177ba4a6987"
