@@ -465,6 +465,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
@@ -941,12 +946,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "218a0ce0155bdb336feee2fdf0ed512d3bbf13012630ba49f90170eefcfc231b"
+hash = "b9bd99e4a6e22c9c3fc48c0b9777cdbe7a51453b8ca57e953aebc4d0ee7d01ca"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "570c315d743456fd7d60d5ba1e177c725c5462a512286be1e049ccd1f2d029d3"
+hash = "da4dacb7507735219f866b41ea9952d637e047770771737af853fa32cda5a58c"
 metafile = true
 
 [[files]]
