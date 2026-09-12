@@ -90,6 +90,11 @@ hash = "d6c17b9756d8b9491b1813a3a999f78918e268809f904e4739719a7eed82719b"
 metafile = true
 
 [[files]]
+file = "mods/artifacts-crafting.pw.toml"
+hash = "770311812d0be2d3b771a38773183da0bb0ff7bf2a56810e53a9eb9a35d5c499"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "416b7f130791397fb2ceb9e89ce3fd0e870f207c8e40b759c069cb58b7544314"
 metafile = true
@@ -547,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/leather-craft.pw.toml"
+hash = "038a55a018bdf8a378a63437a0deed21a58aff522e62b09205f6413370010359"
 metafile = true
 
 [[files]]

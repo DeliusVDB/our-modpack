@@ -1,0 +1,13 @@
+name = "Leather Craft"
+filename = "leathercraft-3.0.0-neoforge-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/etWvIXet/versions/f7KO1lPp/leathercraft-3.0.0-neoforge-1.21.x.jar"
+hash-format = "sha512"
+hash = "259af22abbced87eb81ed1216eb1d80e56db01680cbad51d76abc6d5d5e6eaf1f093bb2b33c26566c5c11fe2b670a5ffb096f985c687fbab20c4077d198eb82a"
+
+[update]
+[update.modrinth]
+mod-id = "etWvIXet"
+version = "f7KO1lPp"
