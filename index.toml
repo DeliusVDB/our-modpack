@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
+hash = "a0f894d36ecb13dcda2a0e448b1691656db68c7d4845d5c666cb0252f6ad6512"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "962f814c2d04b4e878ef6241c56658b4b71ef513fc1c4963ddb22c0fe17a1de9"
+hash = "4cdd93cee10cb5b758e0c9214a8e0c606dc0c9715a9fadca41bc630f3706d0e4"
 metafile = true
 
 [[files]]
