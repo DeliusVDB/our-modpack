@@ -1075,11 +1075,6 @@ hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
-file = "mods/stonecutter-recycling.pw.toml"
-hash = "49a8487a0ecbab750c7c91baf19872e52aee5fbe1f697499882ae51a70b04434"
-metafile = true
-
-[[files]]
 file = "mods/stonecutting-upgrade.pw.toml"
 hash = "77342192d564e017e50b9899bd9f1419a014e18346096df8e848286994eb51ed"
 metafile = true
