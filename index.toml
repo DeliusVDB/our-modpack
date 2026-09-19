@@ -95,11 +95,6 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/ardas-uncrafting-table.pw.toml"
-hash = "6d650be47b60377d43da043e6011b7518890ae751727c47cfd20144c26954df2"
-metafile = true
-
-[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "d6c17b9756d8b9491b1813a3a999f78918e268809f904e4739719a7eed82719b"
 metafile = true
