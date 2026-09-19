@@ -75,6 +75,11 @@ hash = "d92f9bea5613bc6fadf3f1b7a7786291541cc990756f7780e108d84e12ee37a2"
 metafile = true
 
 [[files]]
+file = "mods/anvilcore.pw.toml"
+hash = "268b4c1903db15f9619676883c3245b3427691fac5400563525c333819b10119"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -1067,6 +1072,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
+metafile = true
+
+[[files]]
+file = "mods/stonecutter-recycling.pw.toml"
+hash = "49a8487a0ecbab750c7c91baf19872e52aee5fbe1f697499882ae51a70b04434"
 metafile = true
 
 [[files]]
