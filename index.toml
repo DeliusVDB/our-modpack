@@ -75,11 +75,6 @@ hash = "d92f9bea5613bc6fadf3f1b7a7786291541cc990756f7780e108d84e12ee37a2"
 metafile = true
 
 [[files]]
-file = "mods/anvilcore.pw.toml"
-hash = "268b4c1903db15f9619676883c3245b3427691fac5400563525c333819b10119"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -97,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/ardas-uncrafting-table.pw.toml"
+hash = "6d650be47b60377d43da043e6011b7518890ae751727c47cfd20144c26954df2"
 metafile = true
 
 [[files]]
